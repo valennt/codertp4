@@ -120,8 +120,5 @@ Antes de Telegram hay un segundo Set (*Payload Telegram*) que arma un mensaje co
 
 Cada nodo se probó con **Test step** y el flujo completo con **Execute Workflow** antes de exportar.
 
-## Pendiente para el Proyecto Final (M11)
+<img width="1527" height="688" alt="image" src="https://github.com/user-attachments/assets/d3a48d1c-d7d7-4c09-9ced-b2867fd16165" />
 
-- Portales (Zonaprop, Argenprop) mandan los avisos desde direcciones `noreply`: hará falta una lista blanca de esos dominios y leer el email del interesado desde el *Reply-To* o el cuerpo.
-- Rama de error con alerta a Telegram cuando falle HubSpot o Gmail, y aviso de los mails que frena el filtro.
-- Juez (M8) antes de escribir en el CRM y propiedad `origen: Lia` en HubSpot para medir el success fee (M10).
